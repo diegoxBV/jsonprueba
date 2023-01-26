@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Diego Bedoya",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "dbnedoya@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "0162734648",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 2,
+    "name": "Ernesto Guevara",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "Erdr@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "097483944",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 3,
+    "name": "Ana Melania",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "ana@gmail.com",
+    "profesion": "Estudiante UPS",
+    "contacto": "096767474",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 4,
+    "name": "Martha Vaca",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "marthalvaca@gmail.com",
+    "profesion": "Estilista",
+    "contacto": "09848943734",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 5,
+    "name": "Brissa Cervantes ",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+    "email": "BBrisa@gmail.com",
+    "profesion": "Abogado",
+    "contacto": "097657566",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 6,
+    "name": "Aaron Cervantes",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "aaaaRon@gmail.com",
+    "profesion": "Medico",
+    "contacto": "096564657",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 7,
+    "name": "Emili Coello",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+    "email": "EmElue@gmail.com",
+    "profesion": "Contadora",
+    "contacto": "0964564",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 8,
+    "name": "Paulina Gomez",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+    "email": "PPgomez@gmail.com",
+    "profesion": "Psicologa",
+    "contacto": "098645654",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 9,
+    "name": "Franklin Santacruz",
+	"foto": "https://icons8.com/icon/42606/black-blood",
+    "email": "SSSFRS@gmail.com",
+    "profesion": "Supervisor",
+    "contacto": "0954353453",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  },
+  {
+    "id": 10,
+    "name": "Gabriela Hernandez",
+    "foto": "https://icons8.com/icon/42606/black-blood",
+	"email": "GGHomez@gmail.com",
+    "profesion": "Panadera",
+    "contacto": "09764575",
+    "fb": "",
+    "tw": "",
+    "linke": ""
+  }
+]
